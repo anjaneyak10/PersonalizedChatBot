@@ -18,17 +18,23 @@ To set up the Python application and Tembo stack, please follow the instructions
    You can specify the file path on your system during this process.
    A successful indexing will be indicated as follows:
 
-   ![Successful Indexing](Images\Successful Indexing.png)
+   <p align='center'>  
+  <img src='Images\SuccessfulIndexing.png' />
+</p>
 
    An unsuccessful indexing will appear as:
 
-   ![Indexing Failed](Images\Indexing Failed.png)
+<p align='center'>  
+  <img src='Images\IndexingFailed.png' />
+</p>
 
 4. **Search Feature**: Utilize the search functionality to retrieve information from the indexed data.
    Search queries can be related to any content within your documents.
    For instance, if you've indexed TEMBO documentation and code, your search results might resemble:
 
-   ![Searching](Images\Searching.png)
+<p align='center'>  
+  <img src='Images\Searching.png' />
+</p>
 
 ## Additional Support
 
