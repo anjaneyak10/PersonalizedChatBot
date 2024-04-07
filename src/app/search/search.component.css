@@ -1,0 +1,35 @@
+.index-container {
+    margin-bottom: 20px;
+}
+
+.index-input {
+    width: 300px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.index-button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.index-button:hover {
+    background-color: #0056b3;
+}
+
+.response-container {
+    margin-top: 20px;
+}
+
+.response-container h3 {
+    font-size: 18px;
+}
+
+.response-container p {
+    font-size: 16px;
+}

@@ -1,0 +1,11 @@
+<button class="index-redirect-button" (click)="redirectToSearch()">Go to Search</button>
+<div class="index-container">
+    <h2>Index all files in the path</h2>
+    <input type="text" class="index-input" placeholder="Enter file path containing files for indexing" [(ngModel)]="indexPath">
+    <button class="index-button" (click)="index()">Index</button>
+</div>
+
+<div *ngIf="indexResponse" class="response-container">
+    <h3>Indexing Response</h3>
+    <p>{{ indexResponse }}</p>
+</div>
