@@ -1,4 +1,4 @@
-# Angular Customizable ChatBot
+# Angular Personalized ChatBot
 
 This Angular project empowers you to develop a personalized chatbot using openAI tailored to your unique data. By organizing various documents such as README files, text documents, or code files within a specified folder, you can seamlessly index them into the TEMBO RAG stack using this application. Moreover, the integrated search functionality enables you to efficiently retrieve information from the indexed data.
 
