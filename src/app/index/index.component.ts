@@ -28,7 +28,7 @@ export class IndexComponent {
       })
     };
     this.http.post<any>('http://localhost:9083/indexFiles', postData, httpOptions).subscribe(response => {
-      if (response['message'] == "Indexing successful") {
+      if (response['message'] == "Indexing Done") {
         this.indexResponse = "Successfully indexed files"
       }
       else{
